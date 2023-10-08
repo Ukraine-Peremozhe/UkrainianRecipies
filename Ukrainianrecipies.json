@@ -5,7 +5,7 @@
 			"image":"https://f.authenticukraine.com.ua/article/550/E82p5.jpg",
 			"description":"Borsch is a signature dish of Ukrainian cuisine, which is greatly enjoyed all over the world. The dish has dozens of variations, due to the wide geography of Ukrainians. The most common are red, green, mushroom, cold borsch and other variations. The etymology of the word borshch comes from the name of the borschivnik plant and literally means notch, tip. After all, the leaves of this plant were originally used to make borsch. Much later, potatoes and beets came to Europe and Ukraine, without which it is difficult to imagine the main dish of Ukrainian cuisine today. Ingredients for borscht vary significantly depending on the region of Ukraine. For example, in Podillia housewives add beans to a dish, in the Poltava region — dumplings, in the South — flour, and in Slobozhanshchina there is a variation of borsch with beer.",
 			"websites":"https://authenticukraine.com.ua/en/food/bors",
-			"ingredients":"<li>250 grams of beef</li><li>1.5 cups of water</li><li>150 grams of cabbage</li><li>1 carrot</li><li>1 onion</li><li>4 white potatoes</li><li>1/2 medium beetroot</li><li>tomato paste</li><li>salt, pepper, herbs</li><li>Pampushky:</li><li>2 cups of flour</li><li>1/2 glass of water</li><li>1 tablespoon of sugar</li><li>10 grams of yeast</li><li>1 teaspoon of sunflower oil</li><li>Sauce:</li><li>2 cloves of garlic</li><li>1/3 glass of water</li><li>1/2 teaspoon of sunflower oil</li><li>1/3 teaspoon of salt</li>",
+			"ingredients":"<li>250 grams of beef</li><li>1.5 cups of water</li><li>150 grams of cabbage</li><li>1 carrot</li><li>1 onion</li><li>4 white potatoes</li><li>½ medium beetroot</li><li>tomato paste</li><li>salt, pepper, herbs</li><li>Pampushky:</li><li>2 cups of flour</li><li>1/2 glass of water</li><li>1 tablespoon of sugar</li><li>10 grams of yeast</li><li>1 teaspoon of sunflower oil</li><li>Sauce:</li><li>2 cloves of garlic</li><li>1/3 glass of water</li><li>1/2 teaspoon of sunflower oil</li><li>1/3 teaspoon of salt</li>",
 			"procedure":"First, start cooking the broth. It is better to choose meat on the bone. Boil it until ready and remove from the broth, cut into small pieces, removing bones and tendons. </hr>Meanwhile, cut beet into thin strips and to the broth. Wait until it boils and becomes transparent, and only then add the remaining ingredients. Otherwise, all the vegetables in the dish will be the same red color. </hr>Once the beet is boiled, add finely chopped onions. After a few minutes add finely cut into thin half circles carrot. Then add the finely chopped cabbage and diced potatoes to the boiling broth. When all the vegetables are ready, add the meat from the broth, tomato juice (or tomato paste diluted in water), herbs and spices.</hr> Remove the pan from the heat and let the dish infuse a bit. In the meantime, you can make pampushky. Knead the usual yeast dough. To do this, combine the wet ingredients (eggs, water, oil), add yeast and sugar, gradually add flour. Cover the dough with a towel and place in a warm place until it rises. Then form balls, place them on a greased baking sheet and wait for the dough to rise again. Bake pampushky for 15 minutes at 200 degrees Celsius. </hr> To prepare the sauce, chop the garlic and grind it with salt and oil, then dilute with hot water.",
 			"videos":"https://www.youtube.com/embed/MERIlV7fD7o?si=srkscVIaNcSLogvy",
 			"price":"???"
@@ -20,13 +20,23 @@
 			"price":"???"
 		},
 		{
-			"name":"Borshch (Recipe 3)",
-			"image":"https://ukrainian-recipes.com/wp-content/uploads/2012/07/golubci-z-myasom-i-risom.jpg",
-			"description":"How to make Holubtsi How to make Holubtsi How to make Holubtsi How to make Holubtsi How to make Holubtsi How to make Holubtsi How to make Holubtsi How to make Holubtsi How to make Holubtsi How to make Holubtsi How to make Holubtsi How to make Holubtsi How to make Holubtsi How to make Holubtsi How to make Holubtsi How to make Holubtsi How to make Holubtsi How to make Holubtsi How to make Holubtsi How to make Holubtsi How to make Holubtsi How to make Holubtsi How to make Holubtsi How to make Holubtsi How to make Holubtsi ",
-			"websites":"https://ukrainian-recipes.com/96.html",
-			"ingredients":"<li>Cabbage</li><li>Bulb onion</li><li>tomato</li>",
-			"procedure":"Wash cabbage leaves, put them in salted boiling water, and cook 1-2 minutes until soft. Take out the leaves from the pan and wait till the water drains. Cut out a thick center part of each leaf at the bottom of its stem.",
-			"videos":"https://www.youtube.com/embed/0YNZWgja79I?si=HS78z844GkdkYRyO",
+			"name":"Borshch (Lviv Recipe, 5 Recipies Total)",
+			"image":"https://life.pravda.com.ua/images/doc/b/b/bb4642e-happy-lark-depositphotos.jpg",
+			"description":"Особливістю цієї версії страви є насичено бордовий колір та квасоля ясько – місцевий сорт, який втім можна купити усюди: У нас на Львівщині, що таке борщ, знає кожна дитина. Борщ завжди готується у доброму настрої, так як символічно, цей настрій має передаватися тим, хто його куштує! На Різдво – ця страва входить в дванадцятку традиційних страв, і подається з вушками з грибам.",
+			"websites":"https://life.pravda.com.ua/culture/2021/03/6/244156/",
+			"ingredients":"<li>2-2.5 liters of water</li><li>1 cup of beans</li><li>1 carrot</li><li>Parsley</li><li>1 onion</li><li></li><li>½ of a medium cabbage</li><li>2-3 medium beets</li><li>2-3 spoons of tomato paste</li><li>oil</li><li>Bay leaf</li><li>духмяний перець</li><li>vinegar, salt, sugar, garlic</li>",
+			"procedure":"Квасолю залити водою, щоб набухла на 2-3 години або на ніч. Потім зварити на маленькому вогні. </br> Буряк варити 40-45 хвилин цілим в шкірці, до води додати одну столову ложку оцту, остудити, почистити та натерти на грубій терці. </br> Зварити овочевий бульйон: у 2 літри води порізати цибулю, моркву петрушку та тримати на вогні протягом 30 хвилин. Після додати порізану білокачанну капусту та варити ще 10 хвилин. Додати буряк, лавровий лист, духмяний перець та готувати разом 5 хвилин. </br> Окремо підсмажити 4 ложки томатної пасти на 2-х столових ложках олії. </br> З'єднати з бульйоном варену квасолю, томатну пасту, потертий часник, столову ложку цукру, посічену в'ялену петрушку, кріп та сіль до смаку.",
+			"videos":"",
+			"price":"???"
+		},
+		{
+			"name":"",
+			"image":"",
+			"description":"",
+			"websites":"",
+			"ingredients":"<li></li>",
+			"procedure":"",
+			"videos":"",
 			"price":"???"
 		}
 	]
